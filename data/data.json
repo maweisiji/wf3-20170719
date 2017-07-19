@@ -1,0 +1,17 @@
+[
+    {
+        "id":0,
+        "content":"Acceuil",
+        "anchor":"#accueil"
+    },
+    {
+        "id":1,
+        "content":"Liste des etudiants",
+        "anchor":"#studentList"
+    },
+    {
+        "id":2,
+        "content":"Contacter Webforce3",
+        "anchor":"#contacts"
+    }
+]
